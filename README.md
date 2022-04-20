@@ -27,7 +27,7 @@ Sou um amante de tecnologia, e passo a maior parte do meu tempo estudando sobre.
 
 - Desenvolvedor Frontend
 - Designer Gráfico
-- Desenvolvedor Backend (em breve...)
+- Desenvolvedor Backend
 
 ## Redes sociais
 
