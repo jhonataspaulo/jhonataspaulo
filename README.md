@@ -1,6 +1,6 @@
 ## Olá 👋 eu sou Jhonatas Paulo
 
-Seja bem vindo ao meu git. 😄
+Seja bem vindo! 😄
 
 
 ## Sobre mim
@@ -11,6 +11,7 @@ Sou um amante de tecnologia, e passo a maior parte do meu tempo estudando sobre.
   
 - Javascript
 - ReactJs
+- React Native
 - MongoDB
 - NodeJs
 - GraphQL
@@ -19,22 +20,17 @@ Sou um amante de tecnologia, e passo a maior parte do meu tempo estudando sobre.
 ## Ferramentas de Design
 
 - Figma
-- Photoshop
-- CorelDraw
-- Illustrator
 
 ## Especialidades
 
 - Desenvolvedor Frontend
-- Designer Gráfico
 - Desenvolvedor Backend
+- Desenvolvedor Mobile
 
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/0d6e07ea-deca-460d-acc9-edce5316eabb.svg)](https://wakatime.com/@0d6e07ea-deca-460d-acc9-edce5316eabb)
 
 ## Redes sociais
-
- - Pessoal
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JhonatasPaulo) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhonataspaulo/) 
