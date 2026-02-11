@@ -24,11 +24,6 @@ Sou um amante de tecnologia, e passo a maior parte do meu tempo estudando sobre.
 
 - Figma
 
-## Especialidades
-
-- Desenvolvedor Frontend
-- Desenvolvedor Mobile
-
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/0d6e07ea-deca-460d-acc9-edce5316eabb.svg)](https://wakatime.com/@0d6e07ea-deca-460d-acc9-edce5316eabb)
 
